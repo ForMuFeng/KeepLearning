@@ -1,41 +1,21 @@
-package Day20191102;
+package Day20191107;
 
+import static BaseUtil.ArrayUtil.TEST_ARRAY;
 import static BaseUtil.ArrayUtil.soutArray;
 
 /**
  * @Auth:yqy
- * @Date 2019/11/2 14:32
+ * @Date 2019/11/7 20:02
  */
 public class QuickSort {
-    /**
-     *   今日份快速排序
-     *
-     * 最优的情况下空间复杂度为：O(logN)
-     *
-     * 最差的情况下空间复杂度为：O(N^2)
-     *
-     * 快速排序的平均时间复杂度是：O(N*logN)
-     */
-
 
     public static void main(String[] args) {
-        int[] a={3,7,1,5,9};
-        doSort(a,0,a.length-1);
-        soutArray(a);
-
+        doSort(TEST_ARRAY,0,TEST_ARRAY.length-1);
+        soutArray(TEST_ARRAY);
     }
-
-    public static int[] doSort(int[] arr,int left,int right){
-        int i=sort(arr,left,right);
-        if(left<right){
-            doSort(arr,left,i-1);
-            doSort(arr,i+1,right);
-        }
-        return arr;
-    }
-
-
-    public static int sort(int[] arr,int left,int right){
+    public static void doSort(int[] arr,int left,int right){
+        int start=left;
+        int end=right;
         int base=left;
         while(right>left){
             while(arr[right]>=arr[base]&&right>left){
@@ -57,7 +37,9 @@ public class QuickSort {
                 base=left;
             }
         }
-        return base;
-
+        if(end>start){
+            doSort(arr,start,base-1);
+            doSort(arr,base+1,end);
+        }
     }
 }

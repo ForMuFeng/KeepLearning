@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b26ec3a-17a8-457d-999a-21fd2a0b0628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191107/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191107/Maopao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191107/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191107/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/git.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BaseUtil/ArrayUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/BaseUtil/ArrayUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191102/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Day20191102/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191107/ShowOutOfMemeoryError.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Day20191107/ShowOutOfMemeoryError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseUtil/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseUtil/ArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day20191102/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20191102/QuickSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,35 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShowOutOfMemeoryError">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191105.tryClassLoader.Main" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day20191105.tryClassLoader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191105.QuickSort" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day20191105.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShowOutOfMemeoryError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191107.ShowOutOfMemeoryError" />
+  <component name="RunManager" selected="Application.InsertSort">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191107.InsertSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowStackOverFlowError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191107.ShowStackOverFlowError" />
+    <configuration name="Maopao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191107.Maopao" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191102.StringDemo" />
+    <configuration name="QuickSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191102.QuickSort" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +97,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191107.QuickSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day20191107.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191107.SelectSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day20191107.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShowOutOfMemeoryError" />
-        <item itemvalue="Application.ShowStackOverFlowError" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.QuickSort (2)" />
-        <item itemvalue="Application.StringDemo" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.Maopao" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.QuickSort (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +151,7 @@
       <workItem from="1572602791370" duration="3962000" />
       <workItem from="1572666610332" duration="4697000" />
       <workItem from="1572928800716" duration="4063000" />
-      <workItem from="1573124081170" duration="2097000" />
+      <workItem from="1573124081170" duration="8722000" />
     </task>
     <servers />
   </component>
