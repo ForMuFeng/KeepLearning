@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b26ec3a-17a8-457d-999a-21fd2a0b0628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaseUtil/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191109/TravelTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Day20191109/TravelTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day20191109/TravelTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20191109/TravelTree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +145,7 @@
       <workItem from="1572928800716" duration="4063000" />
       <workItem from="1573124081170" duration="8722000" />
       <workItem from="1573210168166" duration="599000" />
-      <workItem from="1573282742743" duration="6200000" />
+      <workItem from="1573282742743" duration="7432000" />
     </task>
     <servers />
   </component>
