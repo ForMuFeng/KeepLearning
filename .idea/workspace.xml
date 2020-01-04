@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b26ec3a-17a8-457d-999a-21fd2a0b0628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day20191109/NonRecursiveTreeTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191110/NonRecursiveTreeTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20191111/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day20200105/MaxArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191109/TravelTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Day20191109/TravelTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day20191109/TravelTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20191109/TravelTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191109/IsSubtree$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191109/IsSubtree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Day20191109/IsSubtree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day20191109/IsSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20191110/IsSubtree.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -49,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TravelTree">
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191107.InsertSort" />
+  <component name="RunManager" selected="Application.IncreaseArray">
+    <configuration name="IncreaseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191124.IncreaseArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20191107.*" />
+          <option name="PATTERN" value="Day20191124.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191109.QuickSort" />
+    <configuration name="MyTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191111.MyTree" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20191109.*" />
+          <option name="PATTERN" value="Day20191111.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191107.SelectSort" />
+    <configuration name="NonRecursiveTreeTravel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191110.NonRecursiveTreeTravel" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20191107.*" />
+          <option name="PATTERN" value="Day20191110.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191109.SelectSort" />
+    <configuration name="NonRecursiveTreeTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191109.NonRecursiveTreeTravel" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20191109.*" />
+          <option name="PATTERN" value="Day20191110.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TravelTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20191109.TravelTree" />
+    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day20191111.TreeNode" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day20191109.*" />
+          <option name="PATTERN" value="Day20191111.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TravelTree" />
-        <item itemvalue="Application.SelectSort (1)" />
-        <item itemvalue="Application.QuickSort (2)" />
-        <item itemvalue="Application.InsertSort" />
-        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.IncreaseArray" />
+        <item itemvalue="Application.MyTree" />
+        <item itemvalue="Application.TreeNode" />
+        <item itemvalue="Application.NonRecursiveTreeTravel (1)" />
+        <item itemvalue="Application.NonRecursiveTreeTravel" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +153,13 @@
       <workItem from="1572928800716" duration="4063000" />
       <workItem from="1573124081170" duration="8722000" />
       <workItem from="1573210168166" duration="599000" />
-      <workItem from="1573282742743" duration="7432000" />
+      <workItem from="1573282742743" duration="13525000" />
+      <workItem from="1573357596490" duration="5697000" />
+      <workItem from="1573448334506" duration="603000" />
+      <workItem from="1573451597819" duration="5997000" />
+      <workItem from="1574581201267" duration="1694000" />
+      <workItem from="1574945995169" duration="78000" />
+      <workItem from="1578156248758" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -174,11 +188,17 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BaseUtil/TreeNode.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="9" />
+          <url>file://$PROJECT_DIR$/src/Day20191111/MyTree.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="node" />
+        <watch expression="node" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
